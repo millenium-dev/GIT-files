@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 Aaaa
 BBbb
+=======
+Oooo
+>>>>>>> 22c21ef66b40b2e2c2753c85526f1143b51bbee2
